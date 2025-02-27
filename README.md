@@ -230,7 +230,7 @@ I also selected top differentially expressed genes based on log-fold change (log
 ### Venn Diagram of Overlaps
 Below is a Venn diagram showing the overlap of DEGs identified by Ballgown (left circle) and edgeR (right circle).
 
-![Venn Diagram](images/venny.png)
+![Venn Diagram](images/venny.jpg)
 
 
 
